@@ -1,45 +1,30 @@
 {
-    "name": "USYD Achievement #1",
-    "symbol": "USYDA", 
-    "description": "USYD Achievements", 
-    "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/files/test.pdf",
-    "external_url": "",
-    "seller_fee_basis_points": 500, 
-    "attributes": [ 
-        {
-            "trait_type": "Background",
-            "value": "Teal"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Teal"
-        },
-        {
-            "trait_type": "Body",
-            "value": "Care Bear Onesie"
-        },
-        {
-            "trait_type": "Hat",
-            "value": "None"
-        }
-    ],
-    "properties": { 
-        "files": [ 
-            {
-                "uri": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/files/test.pdf",
-                "type": "application/pdf"
-            }
-        ],
-        "category": "application/pdf", 
-        "creators": [
-            {
-                "address": "9Y6Ng9rNLbq4bqCkVJXUjbFhQJEzZ3AvUxpqx3ffu4gY",
-                "share": 90
-            },
-            {   
-                "address": "5W2x2RWbCfCh2kmTeuAnDBUJbHTz2uKcjJcSBCJPB8dE",
-                "share": 10
-            }
-        ]
+  "name": "USYD Achievements #1",
+  "symbol": "USYDA",
+  "description": "No description.",
+  "image": "https://raw.githubusercontent.com/joaotav/mpl-core/refs/heads/main/collection-data/files/images/byte-spirits/byte-spirits-1.png",
+  "external_url": "N/A",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "John Doe"
     },
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/joaotav/mpl-core/refs/heads/main/collection-data/files/images/byte-spirits/byte-spirits-1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CYHgUSh26Qnhu8qrhx2XFCAdL5DQk3NC7EZ2DV4jzdRM",
+        "share": 100
+      }
+    ]
+  }
 }
+
