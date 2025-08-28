@@ -1,14 +1,14 @@
 {
-  "name": "University of Sydney Achievements",
-  "symbol": "USYDA",
-  "description": "University of Sydney Achievements",
+  "name": "USYD Achievements",
+  "symbol": "USYD",
+  "description": "USYD Achievements is a collection of tokenized certificates recognizing students’ outstanding academic accomplishments.",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/files/images/achievements-collection.png",
+  "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/images/collections/achievements-collection.png",
   "properties": {
     "files": [
       {
         "type": "image/png",
-        "uri": "https://raw.githubusercontent.com/joaotav/mpl-core/refs/heads/main/collection-data/files/images/byte-spirits/byte-spirits-collection.png"
+        "uri": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/images/collections/achievements-collection.png"
       }
     ],
     "category": "image",

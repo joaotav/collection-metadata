@@ -1,0 +1,22 @@
+{
+  "name": "USYD Student Achievements",
+  "symbol": "USYD",
+  "description": "USYD Student Achievements is a collection of tokenized certificates recognizing students’ outstanding academic accomplishments.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/images/collections/student-achievements-collection.png",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/images/collections/student-achievements-collection.png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CYHgUSh26Qnhu8qrhx2XFCAdL5DQk3NC7EZ2DV4jzdRM",
+        "share": 100
+      }
+    ]
+  }
+}

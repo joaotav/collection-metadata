@@ -1,0 +1,47 @@
+{
+  "name": "USYD Achievements (CERT-2025-003)",
+  "symbol": "USYDA",
+  "description": "USYD Achievements is a collection of tokenized certificates recognizing students’ outstanding academic accomplishments.",
+  "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/files/images/achievements-003-preview.png",
+  "external_url": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/documents/achievements-003.pdf",
+  "seller_fee_basis_points": 500,
+  "category": "document",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Victor Veritas"
+    },
+    {
+      "trait_type": "Unit",
+      "value": "Compilers"
+    },
+    {
+      "trait_type": "Semester",
+      "value": "II"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    },
+    {
+      "trait_type": "Lecturer",
+      "value": "Chris Professor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/documents/achievements-003.pdf",
+        "type": "application/pdf"
+      }
+    ],
+    "category": "document",
+    "creators": [
+      {
+        "address": "CYHgUSh26Qnhu8qrhx2XFCAdL5DQk3NC7EZ2DV4jzdRM",
+        "share": 100
+      }
+    ]
+  }
+}
+
