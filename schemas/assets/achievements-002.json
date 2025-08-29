@@ -2,7 +2,7 @@
   "name": "USYD Achievements (CERT-2025-002)",
   "symbol": "USYDA",
   "description": "USYD Achievements is a collection of tokenized certificates recognizing students’ outstanding academic accomplishments.",
-  "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/files/images/achievements-002-preview.png",
+  "image": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/images/previews/achievements-002-preview.png",
   "external_url": "https://raw.githubusercontent.com/joaotav/collection-metadata/refs/heads/main/documents/achievements-002.pdf",
   "seller_fee_basis_points": 500,
   "category": "document",
